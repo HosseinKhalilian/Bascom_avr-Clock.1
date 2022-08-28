@@ -1,4 +1,4 @@
-# Bascom_avr-Clock.1
+# Bascom_avr-Clock
 
 
 <p align="center">
